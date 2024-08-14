@@ -13,7 +13,8 @@ Eu sou o Pedro :sunglasses:, sou um programador Front-End, atualmente estou apre
   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <br/>
-  Entre em contato comigo :incoming_envelope: : <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=VpCqJPsNkVdmNjVcMmNDJSjlxjbqxksnMxvwkbMtMRtWzmzJvdZHSVgPmWcfgbBSVWjTGvq">Pedro Souto de Andrade<a/>
+   Entre em contato comigo :incoming_envelope: : <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=VpCqJPsNkVdmNjVcMmNDJSjlxjbqxksnMxvwkbMtMRtWzmzJvdZHSVgPmWcfgbBSVWjTGvq">Pedro Souto de Andrade<a/><br>
+    Me acompanhe: <a href="https://www.instagram.com/pedrosmalls?igsh=am81bjlsbDBnajMw">@pedrosmalls</a>
   <br/>
   <br/>
   
